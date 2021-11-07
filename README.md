@@ -1,2 +1,2 @@
 # image
-my  cloud  blog image
+cloud blog image 
